@@ -1,0 +1,38 @@
+[
+    {
+        "user": "gtudan",
+        "name": "Tudan",
+        "vorname" : "Gregor",
+        "einstellungsort": "Karlsruhe"
+    }, {
+        "user": "aborger",
+        "name": "Borger",
+        "vorname" : "Andreas",
+        "einstellungsort": "Frankfurt"
+    }, {
+        "user": "csobotta",
+        "name": "Christopher",
+        "vorname" : "Sobotta",
+        "einstellungsort": "Berlin"
+    }, {
+        "user": "rlangner",
+        "name": "Robert",
+        "vorname" : "Langner",
+        "einstellungsort": "Berlin"
+    }, {
+        "user": "jprior",
+        "name": "Jonas",
+        "vorname" : "Prior",
+        "einstellungsort": "Frankfurt"
+    }, {
+        "user": "bnolkenbuer",
+        "name": "Ben",
+        "vorname" : "Molkenbuer",
+        "einstellungsort": "Frankfurt"
+    }, {
+        "user": "hnorden",
+        "name": "Harm",
+        "vorname" : "Norden",
+        "einstellungsort": "Berlin"
+    }
+]
